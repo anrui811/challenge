@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 /**
  * Created by AR on 15/7/27.
  */
-@Service
+@Repository
 public class Person {
 
     JSONObject info;
